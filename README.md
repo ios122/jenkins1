@@ -1,3 +1,3 @@
 node {
-    echo 'Hello from Pipeline'
+    sh 'echo hello world'
 }
