@@ -1,3 +1,3 @@
 node{
-  sh 'node console.log(\'Hello node\')'
+  sh 'node -v'
 }
