@@ -1,1 +1,3 @@
-sh([script: 'echo hello'])
+node{
+  sh 'echo hello world'
+}
