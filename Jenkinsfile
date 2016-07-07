@@ -1,1 +1,1 @@
-
+sh([script: 'echo hello'])
