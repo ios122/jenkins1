@@ -1,3 +1,3 @@
 node{
-  sh 'echo hello world'
+  node 'console.log("Hello node")'
 }
